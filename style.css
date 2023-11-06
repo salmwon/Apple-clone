@@ -1,0 +1,315 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Inter', sans-serif;
+}
+
+
+nav {
+    font-family: 'Ubuntu', sans-serif;
+    font: 1em sans-serif;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    background-color: rgb(30, 27, 27); 
+    
+}
+
+li {
+    font-size: 11px;
+    font-weight: bolder;
+    margin-left: 20px;
+
+}
+
+.logo {
+    width: 17px;
+    height: 17px;
+    margin-left: 300px;
+}
+
+.hdfc {
+    color: white;
+    background-color: rgb(41, 41, 69);
+    font-size: 13px;
+    text-align: center;
+    font-weight: bolder;
+    margin-top: 50px;
+    width: 100%;
+    padding: 5px;
+    
+}
+.mar{
+    margin-top: 13px;
+    font-family: 'Ubuntu', sans-serif;
+    font: 1em sans-serif;
+    color: rgb(246, 246, 212);
+
+}
+
+.first {
+    width: 100%;
+    height: 570px;
+    background-image: url("./images/iphone-15-pro_overview__f8jz7aagka2q_og.png");
+    background-position-x: center;
+
+
+}
+
+.phone {
+    font-size: 48px;
+    color: white;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 55px;
+    line-height: .5;
+    
+}
+
+.phon {
+    font-size: 28px;
+    color: white;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+
+
+
+}
+
+.an {
+    text-align: center;
+    font-size: 21px;
+    font-family: 'Ubuntu', sans-serif;
+    font: 1em sans-serif;
+
+}
+
+.phone2 {
+    font-size: 48px;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 55px;
+    line-height: .5;
+}
+
+.image2 {
+
+    width: 100%;
+    height: 100%;
+}
+
+.ava {
+    text-align: center;
+    font-size: 22px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.image3 {
+    width: 70%;
+    margin-left: 250px;
+}
+
+.image33 {
+    display: none;
+    width: 100%;
+}
+
+.apple {
+    font-size: 42px;
+    text-align: center;
+    line-height: 1;
+
+}
+
+.apple2 {
+    font-size: 23px;
+    text-align: center;
+    line-height: .5;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.apple3 {
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.ann {
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.mac {
+    width: 450px;
+    height: 370px;
+    margin-left: 100px;
+
+}
+
+.background {
+    background-image: url("./images/solid-navy-blue-concrete-textured-wall_53876-124584.avif");
+    width: 98%;
+    height: 570px;
+}
+
+.base1 {
+
+    margin-left: 210px;
+    margin-top: 20px;
+}
+
+.g1 {
+    font-size: 33px;
+    color: rgb(246, 246, 212);
+    text-align: center;
+    line-height: .5;
+}
+
+.g2 {
+    font-size: 20px;
+    color: rgb(246, 246, 212);
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.shop {
+    margin-left: 330px;
+
+}
+
+.base2 {
+    width: 100%;
+    margin-top: 15px;
+}
+
+.background2 {
+    width: 98%;
+    height: 570px;
+    background-image: url("./images/promo_apple_watch_series_9_order__b3u85rm9zf6u_large.jpg");
+    background-position-x: center;
+}
+
+.awatchlogo {
+    margin-left: 40%;
+    margin-top: 50px;
+}
+
+.watchtxt {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.background3 {
+    width: 98%;
+    height: 570px;
+    background-image: url("./images/promo_apple_watch_ultra2_order__dyxqj5ia98om_large.jpg");
+    background-position-x: center;
+
+}
+
+.background4 {
+    width: 98%;
+    height: 570px;
+    background-image: url("./images/promo_iphone_tradein__bugw15ka691e_large.jpg");
+    background-position-x: center;
+}
+
+.footer {
+    background-color: rgb(243, 243, 243);
+}
+
+.ftext {
+    font-size: 12px;
+    padding-left: 280px;
+    padding-right: 280px;
+    font-family: 'Ubuntu', sans-serif;
+    color: rgb(110, 110, 110);
+}
+
+.brline {
+    margin-left: 280px;
+    margin-right: 280px;
+}
+
+.f {
+    display: flex;
+    padding-left: 235px;
+    padding-right: 280px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+
+li {
+    list-style: none;
+    font-size: 12px;
+
+}
+
+.a {
+    text-decoration: none;
+    color: rgb(110, 110, 110);
+    font-family: 'Ubuntu', sans-serif;
+    font: 1em sans-serif;
+    line-height: 2;
+}
+
+.head {
+    font: 1em sans-serif;
+    margin-left: 20px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.in {
+    margin-left: 240px;
+}
+
+@media(max-width:500px) {
+    .ftext {
+        padding-left: 0px;
+        padding-right: 0px;
+
+    }
+
+    .f {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .brline {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    .first {
+        background-image: url("./images/hero_iphone15pro__i70z9oz3hj2i_small.jpg");
+    }
+
+    .image3 {
+        display: none;
+    }
+
+    .image33 {
+        display: block;
+    }
+    .mac{
+        width: 100%;
+        margin-left: 0px;
+    }
+    .base1 {
+
+        margin-left: 50px;
+        
+    }
+    .shop {
+        margin-left: 170px;
+    
+    }
+    .base2{
+        margin-top: 50px;
+    }
+
+}
